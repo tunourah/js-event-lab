@@ -32,3 +32,8 @@ img.style.display = "block";
 
      }  );
     
+     document.getElementById("buttonsix").addEventListener("click", function() {
+         
+        img.style.display = "block";
+        img.src = "https://images.pexels.com/photos/8462116/pexels-photo-8462116.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load";
+    });
